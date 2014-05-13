@@ -1,0 +1,3 @@
+[submodule "Data/SMOOTHIE/Eagle"]
+	path = Data/SMOOTHIE/Eagle
+	url = git@github.com:arthurwolf/SmoothieBoard.git
